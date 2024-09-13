@@ -6,9 +6,13 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <!-- DataTables CSS -->
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">
+<<<<<<< HEAD
     
     <!-- styles -->
     @vite(['resources/js/app.js','resources/css/app.css'])
+=======
+<!--     @vite('resources/css/app.css') -->
+>>>>>>> 139179789a85586119f173d2d4bfcddcad8797ad
 </head>
 <body>
     <div id="app">
